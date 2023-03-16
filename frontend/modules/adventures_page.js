@@ -197,4 +197,4 @@ export {
   getFiltersFromLocalStorage,
   generateFilterPillsAndUpdateDOM,
 };
-Footer
+
